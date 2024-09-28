@@ -1,0 +1,34 @@
+[colors.bright]
+black = "#6c6f85"
+blue = "#7287fd"
+cyan = "#209fb5"
+green = "#40a02b"
+magenta = "#dc8a78"
+red = "#e64553"
+white = "#e6e9ef"
+yellow = "#df8e1d"
+
+[colors.normal]
+black = "#5c5f77"
+blue = "#1e66f5"
+cyan = "#04a5e5"
+green = "#40a02b"
+magenta = "#ea76cb"
+red = "#d20f39"
+white = "#ccd0da"
+yellow = "#df8e1d"
+
+[colors.primary]
+background = "#eff1f5"
+foreground = "#4c4f69"
+
+[font]
+normal = { family = "CozetteVector", style = "Regular"}
+bold = { family = "CozetteVector", style = "Bold" }
+
+
+[window]
+opacity = 1
+decorations="Full"
+decorations_theme_variant = "Light"
+

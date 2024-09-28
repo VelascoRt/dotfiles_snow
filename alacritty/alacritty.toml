@@ -1,0 +1,77 @@
+[[colors.indexed_colors]]
+color = "0xe8bbd0"
+index = 16
+
+[[colors.indexed_colors]]
+color = "0xcdab53"
+index = 17
+
+[[colors.indexed_colors]]
+color = "0x3a3432"
+index = 18
+
+[[colors.indexed_colors]]
+color = "0x4a4543"
+index = 19
+
+[[colors.indexed_colors]]
+color = "0x807d7c"
+index = 20
+
+[[colors.indexed_colors]]
+color = "0xd6d5d4"
+index = 21
+
+[colors.bright]
+black = "0xbcbcbc"
+blue = "0xd75f00"
+cyan = "0x005faf"
+green = "0xd70087"
+magenta = "0xd75f00"
+red = "0xd70000"
+white = "0x005f87"
+yellow = "0x8700af"
+
+[colors.cursor]
+cursor = "0x878787"
+text = "0xeeeeee"
+
+[colors.normal]
+black = "0xeeeeee"
+blue = "0x0087af"
+cyan = "0x005f87"
+green = "0x008700"
+magenta = "0x878787"
+red = "0xaf0000"
+white = "0x444444"
+yellow = "0x5f8700"
+
+[colors.primary]
+background = "0xeeeeee"
+foreground = "0x878787"
+
+[cursor]
+blink_interval = 400
+thickness = 0.15
+vi_mode_style = "Block"
+
+[cursor.style]
+blinking = "Always"
+shape = "Beam"
+
+[font]
+size = 13.0
+
+[font.normal]
+family = "scientifica"
+
+[font.offset]
+x = 0
+y = 1
+
+[shell]
+program = "/bin/zsh"
+
+[window.padding]
+x = 8
+y = 8
